@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `pyxnat/pyxnat <https://github.com/pyxnat/pyxnat>`__, the Python interface to XNAT imaging repositories. Its server interface and selection, search, and resource modules provide building blocks for scripts that work with imaging projects and their data. It is useful for integrating repository access into a Python research workflow.
+
+The fork's `upstream PR #218 <https://github.com/pyxnat/pyxnat/pull/218>`__ proposes restricted permissions for saved credential files on POSIX systems. It was open on 17 October 2026 and remains on the linked feature branch.
+
+See the `official documentation <https://pyxnat.github.io/pyxnat>`__ and `installation guide <https://pyxnat.github.io/pyxnat/installing.html>`__ for supported usage. `Compare the default branch with upstream <https://github.com/jdotc1/pyxnat/compare/pyxnat:master...jdotc1:master>`__. The upstream README, test-environment guidance, contribution instructions, and license follow.
+
+.. rubric:: Upstream README
+
 =======
 pyxnat
 =======
